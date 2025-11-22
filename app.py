@@ -2,7 +2,7 @@ from flask import Flask, render_template
 import time
 import requests
 
-TOKEN = '7669423066:AAF1DXuNqn5WYId4kwFuYmBVePUzwKqHVEI'
+TOKEN = '77932853004:AAFw8FC_DTNi9n0RlsBuzP6DrNYSC8O7DJo'
 BASE_URL = f'https://api.telegram.org/bot{TOKEN}/'
 
 app = Flask(__name__)
